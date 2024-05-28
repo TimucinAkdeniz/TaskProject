@@ -10,5 +10,8 @@ namespace TaskProject.Application.DTo.Category
     {
         public int Id { get; set; }
         public string? Definition { get; set; }
+
+
+
     }
 }

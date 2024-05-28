@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
+      "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
       "projectName": "TaskProject.Domain",
-      "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
+      "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
       "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-      "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\obj\\",
+      "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gJt0/WE8nwGmpHbC6Frsdlpnkpg82bad7MFFz/w5Asxi6riO9sWwxT+lcxW0oU7dTFCwLhI7UcyyX5yih5DKw==",
+  "dgSpecHash": "bNX6nPvJLab6PlPin9hEGQmBpGbe6hh5/bWE/1JoZDk61kIOm3zAWALB+5vFDM4VThm7lfeD/+9c+TY65qrPnA==",
   "success": true,
-  "projectFilePath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
+  "projectFilePath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDjdb5sBywle2Hok52JsWzuW4GyH6qLVJqjfkCrSrfBy2aKnVe7PuMB6VPTEW9E7SB2KL/R48Dppj0kMPp0HsQ==",
+  "dgSpecHash": "8Prcx602dnUn+yGEToxVIQu8pBDkMleXncnPvnjCjXMyF4ge9Dc7/ujJURqJuk3BIU70f+hz/w0iBFX+EvO4TA==",
   "success": true,
-  "projectFilePath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
+  "projectFilePath": "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timucin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Timucin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

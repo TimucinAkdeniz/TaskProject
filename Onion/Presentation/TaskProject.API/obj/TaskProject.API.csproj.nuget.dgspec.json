@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj": {}
+    "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj": {}
   },
   "projects": {
-    "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
+    "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
+        "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
         "projectName": "TaskProject.Application",
-        "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
+        "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
         "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-        "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\obj\\",
+        "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
-                "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj"
+              "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
+                "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
+    "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
+        "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
         "projectName": "TaskProject.Domain",
-        "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
+        "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj",
         "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-        "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\obj\\",
+        "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj": {
+    "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj",
+        "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj",
         "projectName": "TaskProject.Persistance",
-        "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj",
+        "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj",
         "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-        "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\obj\\",
+        "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
-                "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj"
+              "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
+                "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj"
               }
             }
           }
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj": {
+    "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
+        "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
         "projectName": "TaskProject.API",
-        "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
+        "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\TaskProject.API.csproj",
         "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-        "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Presentation\\TaskProject.API\\obj\\",
+        "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\Presentation\\TaskProject.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -254,11 +254,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
-                "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj"
+              "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj": {
+                "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj"
               },
-              "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj": {
-                "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj"
+              "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj": {
+                "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\infrastructure\\TaskProject.Persistance\\TaskProject.Persistance.csproj"
               }
             }
           }

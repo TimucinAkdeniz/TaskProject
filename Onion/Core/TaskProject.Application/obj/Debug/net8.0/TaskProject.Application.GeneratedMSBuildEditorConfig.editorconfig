@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskProject.Application
-build_property.ProjectDir = C:\Eğitimler\Onion Art\TaskProject\Onion\Core\TaskProject.Application\
+build_property.ProjectDir = C:\project\_git\TaskProject\Onion\Core\TaskProject.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

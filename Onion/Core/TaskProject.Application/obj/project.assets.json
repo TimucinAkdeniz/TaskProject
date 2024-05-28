@@ -614,11 +614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
+      "projectUniqueName": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
       "projectName": "TaskProject.Application",
-      "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
+      "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
       "packagesPath": "C:\\Users\\Timucin\\.nuget\\packages\\",
-      "outputPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Application\\obj\\",
+      "outputPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Timucin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -636,8 +636,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
-              "projectPath": "C:\\Eğitimler\\Onion Art\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj"
+            "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj": {
+              "projectPath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Domain\\TaskProject.Domain.csproj"
             }
           }
         }
