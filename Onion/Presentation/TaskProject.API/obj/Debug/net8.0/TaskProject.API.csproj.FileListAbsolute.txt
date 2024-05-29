@@ -245,3 +245,6 @@ C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\obj\Debug\net8.0\
 C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\obj\Debug\net8.0\TaskProj.EE6D3EB5.Up2Date
 C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\obj\Debug\net8.0\TaskProject.API.genruntimeconfig.cache
 C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\obj\Debug\net8.0\ref\TaskProject.API.dll
+C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\bin\Debug\net8.0\FluentValidation.dll
+C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\project\_git\TaskProject\Onion\Presentation\TaskProject.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

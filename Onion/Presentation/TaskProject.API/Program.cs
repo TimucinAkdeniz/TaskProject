@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using TaskProject.Application.Tools;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using TaskProject.Application.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +22,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
         ClockSkew = TimeSpan.Zero,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtTokenDefaults.Key)),
         ValidateLifetime = true,
-        ValidateIssuerSigningKey=true
+        ValidateIssuerSigningKey = true
     };
 });
 
@@ -30,7 +33,18 @@ builder.Services.AddPersistanceServices(builder.Configuration);
 
 #endregion
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
+           .AddFluentValidation(configuration => configuration
+               .RegisterValidatorsFromAssemblyContaining<CreateCategoryValidator>())
+           .AddFluentValidation(configuration => configuration
+               .RegisterValidatorsFromAssemblyContaining<CreateProductValidator>())
+           .ConfigureApiBehaviorOptions(o => o.SuppressModelStateInvalidFilter = true);
+
+
+
+
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

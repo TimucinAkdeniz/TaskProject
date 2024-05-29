@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "yMmBcNLhothB39ABQ6L9eRlmW2cf4K8dmCTg0YwYSLsbsQnILdsS+rtYtdnUu5+UMYeSzuopWsM7F430sFKe0Q==",
+  "dgSpecHash": "kDdJLMAb6SfckjQ+XCiPmkWV+doXclA4jGN0RYSRfllNEddA4xps6tjcQ3SmzvWgoXFob/hr1C22WtXYeBDN1g==",
   "success": true,
   "projectFilePath": "C:\\project\\_git\\TaskProject\\Onion\\Core\\TaskProject.Application\\TaskProject.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timucin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Timucin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Timucin\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\Timucin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Timucin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Timucin\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Timucin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Timucin\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
