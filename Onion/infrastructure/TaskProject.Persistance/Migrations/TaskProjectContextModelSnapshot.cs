@@ -36,6 +36,18 @@ namespace TaskProject.Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AppRoles", "TaskProjectDb");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Definition = "Admin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Definition = "Member"
+                        });
                 });
 
             modelBuilder.Entity("TaskProject.Domain.Entities.AppUser", b =>
@@ -60,6 +72,22 @@ namespace TaskProject.Persistance.Migrations
                     b.HasIndex("AppRoleId");
 
                     b.ToTable("AppUsers", "TaskProjectDb");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            AppRoleId = 1,
+                            Password = "1234",
+                            UserName = "Admin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            AppRoleId = 2,
+                            Password = "1234",
+                            UserName = "Member"
+                        });
                 });
 
             modelBuilder.Entity("TaskProject.Domain.Entities.Category", b =>
@@ -76,6 +104,18 @@ namespace TaskProject.Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories", "TaskProjectDb");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Definition = "Elektronik"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Definition = "Giyim"
+                        });
                 });
 
             modelBuilder.Entity("TaskProject.Domain.Entities.Product", b =>
@@ -103,6 +143,24 @@ namespace TaskProject.Persistance.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products", "TaskProjectDb");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryId = 1,
+                            Name = "Telefon",
+                            Price = 500m,
+                            Stock = 100
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryId = 2,
+                            Name = "Elbise",
+                            Price = 1000m,
+                            Stock = 500
+                        });
                 });
 
             modelBuilder.Entity("TaskProject.Domain.Entities.AppUser", b =>

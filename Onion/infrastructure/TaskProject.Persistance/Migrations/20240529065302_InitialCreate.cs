@@ -3,6 +3,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace TaskProject.Persistance.Migrations
 {
     /// <inheritdoc />
@@ -85,6 +87,46 @@ namespace TaskProject.Persistance.Migrations
                         principalSchema: "TaskProjectDb",
                         principalTable: "Categories",
                         principalColumn: "Id");
+                });
+
+            migrationBuilder.InsertData(
+                schema: "TaskProjectDb",
+                table: "AppRoles",
+                columns: new[] { "Id", "Definition" },
+                values: new object[,]
+                {
+                    { 1, "Admin" },
+                    { 2, "Member" }
+                });
+
+            migrationBuilder.InsertData(
+                schema: "TaskProjectDb",
+                table: "Categories",
+                columns: new[] { "Id", "Definition" },
+                values: new object[,]
+                {
+                    { 1, "Elektronik" },
+                    { 2, "Giyim" }
+                });
+
+            migrationBuilder.InsertData(
+                schema: "TaskProjectDb",
+                table: "AppUsers",
+                columns: new[] { "Id", "AppRoleId", "Password", "UserName" },
+                values: new object[,]
+                {
+                    { 1, 1, "1234", "Admin" },
+                    { 2, 2, "1234", "Member" }
+                });
+
+            migrationBuilder.InsertData(
+                schema: "TaskProjectDb",
+                table: "Products",
+                columns: new[] { "Id", "CategoryId", "Name", "Price", "Stock" },
+                values: new object[,]
+                {
+                    { 1, 1, "Telefon", 500m, 100 },
+                    { 2, 2, "Elbise", 1000m, 500 }
                 });
 
             migrationBuilder.CreateIndex(

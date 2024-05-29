@@ -25,7 +25,10 @@ namespace TaskProject.Persistance.Context
             modelBuilder.HasDefaultSchema("TaskProjectDb");
 
             modelBuilder.ApplyConfiguration(new AppUserConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
             modelBuilder.ApplyConfiguration(new ProductConfiguration());
+            modelBuilder.ApplyConfiguration(new AppRoleConfiguration());
+            
 
             base.OnModelCreating(modelBuilder);
         }

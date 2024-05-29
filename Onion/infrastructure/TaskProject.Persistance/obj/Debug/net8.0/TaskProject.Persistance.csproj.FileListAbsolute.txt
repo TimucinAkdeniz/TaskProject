@@ -17,3 +17,23 @@ C:\Eğitimler\Onion Art\TaskProject\Onion\infrastructure\TaskProject.Persistance
 C:\Eğitimler\Onion Art\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.pdb
 C:\Eğitimler\Onion Art\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.genruntimeconfig.cache
 C:\Eğitimler\Onion Art\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\ref\TaskProject.Persistance.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.csproj.AssemblyReference.cache
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.AssemblyInfoInputs.cache
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.AssemblyInfo.cs
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.csproj.CoreCompileInputs.cache
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.sourcelink.json
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\refint\TaskProject.Persistance.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.pdb
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Persistance.deps.json
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Persistance.runtimeconfig.json
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Persistance.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Persistance.pdb
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Application.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Domain.dll
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Application.pdb
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\bin\Debug\net8.0\TaskProject.Domain.pdb
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProj.352E31A8.Up2Date
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\TaskProject.Persistance.genruntimeconfig.cache
+C:\project\_git\TaskProject\Onion\infrastructure\TaskProject.Persistance\obj\Debug\net8.0\ref\TaskProject.Persistance.dll
